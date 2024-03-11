@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Edwin Alzate
 #### Aspiring Data Scientist
-![Aspiring Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am Edwin an aspiring Data Scientis enthusiast with a passion for analytics and problem-solving.
 
